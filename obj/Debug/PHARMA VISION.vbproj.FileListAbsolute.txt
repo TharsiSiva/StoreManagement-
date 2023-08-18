@@ -1,0 +1,35 @@
+C:\Users\Administrator\Desktop\visual studio\PHARMA VISION\bin\Debug\PHARMA VISION.exe.config
+C:\Users\Administrator\Desktop\visual studio\PHARMA VISION\bin\Debug\PHARMA VISION.exe
+C:\Users\Administrator\Desktop\visual studio\PHARMA VISION\bin\Debug\PHARMA VISION.pdb
+C:\Users\Administrator\Desktop\visual studio\PHARMA VISION\bin\Debug\PHARMA VISION.xml
+C:\Users\Administrator\Desktop\visual studio\PHARMA VISION\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\visual studio\PHARMA VISION\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\visual studio\PHARMA VISION\obj\Debug\PHARMA VISION.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\visual studio\PHARMA VISION\obj\Debug\PHARMA VISION.exe
+C:\Users\Administrator\Desktop\visual studio\PHARMA VISION\obj\Debug\PHARMA VISION.xml
+C:\Users\Administrator\Desktop\visual studio\PHARMA VISION\obj\Debug\PHARMA VISION.pdb
+C:\Users\Administrator\Desktop\visual studio\PHARMA VISION\obj\Debug\WindowsApplication1.login.resources
+C:\Users\Administrator\Desktop\visual studio\PHARMA VISION\obj\Debug\WindowsApplication1.user.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\bin\Debug\PHARMA VISION.exe.config
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\PHARMA VISION.exe
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\PHARMA VISION.xml
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\PHARMA VISION.pdb
+C:\Users\Administrator\Desktop\PHARMA VISION\bin\Debug\PHARMA VISION.exe
+C:\Users\Administrator\Desktop\PHARMA VISION\bin\Debug\PHARMA VISION.pdb
+C:\Users\Administrator\Desktop\PHARMA VISION\bin\Debug\PHARMA VISION.xml
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.login.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.user.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\PHARMA VISION.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.customer.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.order.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.product.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.category.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.Home.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.pharmaloading.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.MainProducts.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.check.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.mainlogin.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.Register.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.homeproduct.resources
+C:\Users\Administrator\Desktop\PHARMA VISION\obj\Debug\WindowsApplication1.changepassword.resources
